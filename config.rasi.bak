@@ -11,4 +11,4 @@ configuration {
 }
 
 
-@import "~/.config/rofi/themes/arthur.rasi"
+@import "/usr/share/rofi/themes/arthur.rasi"
