@@ -7,14 +7,13 @@ rofi.lines:                          10
 ! "Number of columns" Set from: Default
 ! rofi.columns:                        1
 ! "Font to use" Set from: Default
-rofi.font:                           mono 12
+! rofi.font:                           mono 12
 ! "Border width" Set from: Default
-rofi.bw:                             0
+! rofi.bw:                             1
 ! "Location on screen" Set from: Default
 ! rofi.location:                       0
 ! "Padding" Set from: Default
 ! rofi.padding:                        5
-rofi.padding:                        800
 ! "Y-offset relative to location" Set from: Default
 ! rofi.yoffset:                        0
 ! "X-offset relative to location" Set from: Default
@@ -63,7 +62,6 @@ rofi.icon-theme:                     papirus
 ! rofi.sidebar-mode:                   false
 ! "Row height (in chars)" Set from: Default
 ! rofi.eh:                             1
-rofi.eh:                             2
 ! "Enable auto select mode" Set from: Default
 ! rofi.auto-select:                    false
 ! "Parse hosts file for ssh mode" Set from: Default
@@ -112,14 +110,12 @@ rofi.fake-transparency:              true
 ! rofi.theme:                          
 ! "Color scheme for normal row" Set from: Default
 ! rofi.color-normal:                   
-rofi.color-normal:                   #a02f343f,#a0f3f4f5,#a02f343f,#a02f343f,#a09575cd
 ! "Color scheme for urgent row" Set from: Default
 ! rofi.color-urgent:                   
 ! "Color scheme for active row" Set from: Default
 ! rofi.color-active:                   
 ! "Color scheme window" Set from: Default
 ! rofi.color-window:                   
-rofi.color-window:                   #a02f343f,#a02f343f,#a02f343f
 ! "Max history size (WARNING: can cause slowdowns when set to high)." Set from: Default
 ! rofi.max-history-size:               25
 ! "Hide the prefix mode prefix on the combi view." Set from: Default
