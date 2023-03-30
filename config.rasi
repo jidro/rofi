@@ -11,4 +11,5 @@ configuration {
 }
 
 
-@import "~/.config/rofi/themes/arthur.rasi"
+@import "~/.config/rofi/themes/official-themes/gruvbox-common.inc"
+@theme "~/.config/rofi/themes/arthur.rasi"
